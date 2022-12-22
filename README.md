@@ -109,7 +109,7 @@ We have created a simple installer with this blog system in PHP. You can easily 
 3. Extract zip file and upload on your server . <br>
 4. Create a database and open blog URL in your browser. <br>
 5. You will see an installation form. Fill up the details like - host , database name , database password and database username . <br>
-6. Create user and that's it . You can <a href="https://technosmarter.com/contact">contact</a> for instalation support for modern blog system in PHP. 
+6. Create an admin user and that's it . You can <a href="https://technosmarter.com/contact">contact</a> for installation support for modern blog system in PHP. 
 
 # Developer 
 <a href="https://technosmarter.com">Techno Smarter</a>
