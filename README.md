@@ -12,6 +12,8 @@ The design of the blog should be attractive and very lightweight . We have desig
 
 <strong>2. Three column blog CMS in PHP | 3 column blog –</strong>
 As you know that , three column blogs are more popular than simple blog .  We have designed three column blog using bootstrap responsive classes.
+![image](https://user-images.githubusercontent.com/41726733/209188398-993436df-7929-420a-a99d-2410e48cb79d.png)
+
 
 <strong>3. Blog top and sticky Primary header –</strong>
 We have designed two header. First header for pages and second header for blog categories.
@@ -21,6 +23,8 @@ Posts visible on Home page or if you want to check all posts then click on view 
 
 <strong>5. Categories and Subcategories –</strong>
  Categories are more important to separate content in different topics.
+ ![image](https://user-images.githubusercontent.com/41726733/209188429-531e58d6-cb44-46b2-82ff-d731863a59e7.png)
+
 
 <strong>6. Recent posts-</strong>
 You can check recent posts on home page and in sidebar .
@@ -45,12 +49,16 @@ The related post module is used to show the related posts to the content.
 
 <strong>13. Admin panel –</strong>
 We have developed admin panel for customization of blog posts and pages .
+![image](https://user-images.githubusercontent.com/41726733/209188480-26b69685-f1ce-489e-ba39-9d34ef293df5.png)
+
 
 <strong>14. Blog User management-</strong>
 Admin can new user and edit or delete user .
 
 <strong>15. Blog Posts –</strong>
 Admin can upload image , link image , design text , align text , justify text , colors and more using text editor .
+![image](https://user-images.githubusercontent.com/41726733/209188522-14b6d496-a8b7-4455-80b1-bc098a0f1fbb.png)
+
 
 <strong>16.Embed video –</strong>
 This is another features of blog - Admin can embed Youtube videos to display and play video .
@@ -81,6 +89,10 @@ We have developed this blog with SEO friendly URLs like – Blog posts URLs , bl
 
 <strong>27. Code snippet –</strong>
 Code snippet is another feature of blog by which programmer can display highlighted code inside post .
+![image](https://user-images.githubusercontent.com/41726733/209188593-396c1f0b-9f9c-4048-b84d-f46bbb31f4cc.png)
+
+![image](https://user-images.githubusercontent.com/41726733/209188603-94b2dfd8-27e1-4c23-98e8-0be2cd82d3fc.png)
+
 
 <strong>28 .Blog Searching system –</strong>
 
