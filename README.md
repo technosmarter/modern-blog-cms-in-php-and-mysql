@@ -5,7 +5,7 @@ There are two sidebar in this blog system in PHP with MYSQL database.
 ![image](https://user-images.githubusercontent.com/41726733/209184095-37348199-6f43-4a40-a109-0d4fc510084b.png)
 
 
-<h2>Features of blog managemnet system </h2>
+<h2>Features of blog management system </h2>
 <strong>1. Designed and Responsive blog in PHP –</strong>
 The design of the blog should be attractive and very lightweight . We have designed blog with very lightweight CSS, JS files to reduce size of the page . The blog page opens faster than click process.PHP blog has more beneficial if you see the blog speed . We have designed blog using bootstrap to make a blog responsive . You can open this PHP blog on any device like- Desktop, mobile , tables , small or big size screen .
 
@@ -106,8 +106,8 @@ As we have discussed above this is modern blog web application in PHP , you can 
 # Installation
 We have created a simple installer with this blog system in PHP. You can easily install blog system on local server or live server . 
 1. First , get  <a target="_blank" href="https://technosmarter.com/item/modern-blog-cms-in-php-with-mysql-database">Modern blog CMS in PHP with MYSQL database | PHP blog scripts</a> zip file.You can watch complete demo from there . <br>
-3. Extrat zip file and upload on your server . <br>
-4. create a database and open blog URL in your browser. <br>
+3. Extract zip file and upload on your server . <br>
+4. Create a database and open blog URL in your browser. <br>
 5. You will see an installation form. Fill up the details like - host , database name , database password and database username . <br>
 6. Create user and that's it . You can <a href="https://technosmarter.com/contact">contact</a> for instalation support for modern blog system in PHP. 
 
