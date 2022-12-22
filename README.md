@@ -103,7 +103,7 @@ If you don’t have any coding skills or you are not from coding background then
 <strong>30. Simple installer –</strong>
 As we have discussed above this is modern blog web application in PHP , you can install buy simple form . Just fill out the details and done.
 
-# How to install modern blog system in PHP 
+# Installation
 We have created a simple installer with this blog system in PHP. You can easily install blog system on local server or live server . 
 1. First , get  <a target="_blank" href="https://technosmarter.com/item/modern-blog-cms-in-php-with-mysql-database">Modern blog CMS in PHP with MYSQL database | PHP blog scripts</a> zip file.You can watch complete demo from there . <br>
 3. Extrat zip file and upload on your server . <br>
