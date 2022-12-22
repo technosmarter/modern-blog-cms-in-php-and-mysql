@@ -4,7 +4,6 @@ Three column blog CMS is used to present data in three column .First column for 
 There are two sidebar in this blog system in PHP with MYSQL database. 
 ![image](https://user-images.githubusercontent.com/41726733/209184095-37348199-6f43-4a40-a109-0d4fc510084b.png)
 
-<a href="https://technosmarter.com/item/modern-blog-cms-in-php-with-mysql-database">Modern blog CMS in PHP with MYSQL database | PHP blog scripts</a>
 
 <h2>Features of blog managemnet system </h2>
 <strong>1. Designed and Responsive blog in PHP –</strong>
@@ -113,6 +112,10 @@ We have created a simple installer with this blog system in PHP. You can easily 
 5. You will see an installation form. Fill up the details like - host , database name , database password and database username . <br>
 6. Create user and that's it . You can <a href="https://technosmarter.com/contact">contact</a> for instalation support for modern blog system in PHP. 
 
+# Developer 
+<a href="https://technosmarter.com">Techno Smarter</a>
+# Modern blog CMS system in PHP
+<a href="https://technosmarter.com/item/modern-blog-cms-in-php-with-mysql-database">Modern blog CMS in PHP with MYSQL database | PHP blog scripts</a>
 
 
 
