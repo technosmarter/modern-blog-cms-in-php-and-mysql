@@ -2,7 +2,8 @@
 The modern blog contains the latest features and a lightweight structure. We have designed and developed a complete modern blog in PHP and MYSQL database.
 Three column blog CMS is used to present data in three columns. The first column is for the left sidebar, the second column is for the blog post description and the third column is for the right sidebar.
 There are two sidebars in this blog system in PHP with a MYSQL database. 
-![image](https://user-images.githubusercontent.com/41726733/209184095-37348199-6f43-4a40-a109-0d4fc510084b.png)
+![ts-blog-in-php-v2](https://user-images.githubusercontent.com/41726733/225675325-4cf7940c-39b3-4c96-a5c3-cf8e6fed741c.png)
+
 
 
 <h2>Features of the blog management system </h2>
