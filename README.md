@@ -49,8 +49,7 @@ The related post module is used to show the related posts to the content.
 
 <strong>13. Admin panel –</strong>
 We have developed admin panel for customization of blog posts and pages .
-![image](https://user-images.githubusercontent.com/41726733/209188480-26b69685-f1ce-489e-ba39-9d34ef293df5.png)
-
+![image](https://user-images.githubusercontent.com/41726733/225676204-1d4cf15a-e87f-47a5-bf8a-2f9de53b3c12.png)
 
 <strong>14. Blog User management-</strong>
 Admin can new user and edit or delete user .
